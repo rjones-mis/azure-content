@@ -59,7 +59,7 @@ Once you login you should see a dashboard as the one in the image below that wil
 
 ![Management Dashboard][ManagementDashboard]
 
-Clicking on the Services tab will let you configure your WAF for services it is protecting. For more details on configuring your Barracuda WAF you can consult [their documentation](https://techlib.barracuda.com/waf/getstarted1). In the example below an Azure Web App serving traffic on HTTP and HTTPS has been configured.
+Clicking on the Services tab will let you configure your WAF for services it is protecting. For more details on configuring your Barracuda WAF you can consult [Barracuda Techlib](https://techlib.barracuda.com/WAF/GetStarted2). In the example below an Azure Web App serving traffic on HTTP and HTTPS has been configured. https://techlib.barracuda.com/WAF/Azure
 
 ![Management Add Services][ManagementAddServices]
 
